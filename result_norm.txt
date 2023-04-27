@@ -1,0 +1,3 @@
+Lamda is:1e-06 
+Training error: 0.9923334930522281
+Test error: 0.97973713033954

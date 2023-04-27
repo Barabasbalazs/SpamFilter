@@ -1,0 +1,22 @@
+Lamda is:1e-06 
+Alpha is:0.01 
+Training error: 0.9925730713943459
+False Positives for Spam in training: 0.004485741749439282
+False Negatives for Spam in training: 0.005446972124319128
+Test error: 0.9802847754654983
+False Positives for Spam in test: 0.005076142131979695
+False Negatives for Spam in test: 0.02102973168963017
+Alpha is:0.1 
+Training error: 0.9932918064206996
+False Positives for Spam in training: 0.004485741749439282
+False Negatives for Spam in training: 0.004485741749439282
+Test error: 0.9819277108433735
+False Positives for Spam in test: 0.005076142131979695
+False Negatives for Spam in test: 0.01885424220449601
+Alpha is:1 
+Training error: 0.9956875898418783
+False Positives for Spam in training: 0.004806151874399231
+False Negatives for Spam in training: 0.0009612303748798462
+Test error: 0.9879518072289156
+False Positives for Spam in test: 0.009427121102248005
+False Negatives for Spam in test: 0.006526468455402465
